@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvjain-github&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvjain-github" /> </p>
 
-- 🔭 I’m currently working on **Chat app**
+- 🔭 I’m currently working on **Hackathon-Tracker**
 
-- 🌱 I’m currently learning **Ts,Socketio**
+- 🌱 I’m currently learning **Ts,postgress,prisma**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
