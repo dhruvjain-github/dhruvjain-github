@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvjain-github&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvjain-github" /> </p>
 
-- 🔭 I’m currently working on **Hackathon-Tracker**
+- 🔭 I’m currently working on **Development Projects**
 
-- 🌱 I’m currently learning **Ts,postgress,prisma**
+- 🌱 I’m currently learning **Next,Docker**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 💬 Ask me about **MERN,C++ (DSA),HTML,CSS,JS**
+- 💬 Ask me about **MERN,C++ (DSA),TypeScript,JavaScript**
 
 - 📫 How to reach me **dhruvdkjk@gmail.com**
 
