@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Development Projects**
 
-- 🌱 I’m currently learning **Next,Docker**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+- 👯 I’m looking to collaborate on **Devops projects**
 
-- 💬 Ask me about **MERN,C++ (DSA),TypeScript,JavaScript**
+- 💬 Ask me about **MERN,C++ (DSA),TypeScript,JavaScript,Docker,CI/CD**
 
 - 📫 How to reach me **dhruvdkjk@gmail.com**
 
